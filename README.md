@@ -1,0 +1,2 @@
+## Midnight Sun Mechanical
+This repository contains all Matlab scripts for the [University of Waterloo](https://uwaterloo.ca/)'s [Midnight Sun Solar Rayce Car](http://www.uwmidsun.com/) team's car #24.
