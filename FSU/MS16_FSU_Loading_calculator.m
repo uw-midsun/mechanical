@@ -4,7 +4,7 @@ normal_force = vehicle_mass * 9.8 * 0.25;
 
 %Wheelbase and CG
 wheelbase = 2.6; %m
-cg = 0.6; %front 0, back 1
+cg = 0.6; %front 0 back 1
 
 %Acceleration
 Motor_torque = 150; %N/m
